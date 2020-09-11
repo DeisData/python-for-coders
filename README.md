@@ -3,7 +3,7 @@ A quick tutorial to python syntax, loops, conditionals, and functions for a lear
 
 ## Materials for Optimization
 - Video Tutorial
-- Supporting python script
+- [Supporting python script](https://github.com/DeisData/python-for-coders/blob/master/python-tutorial.py)
 
 ## Student Instructions
 - Get files from the repository
