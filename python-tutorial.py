@@ -40,7 +40,7 @@ x - 20
 #
 #? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?      
 
-message = ''
+message = 'Hello World'
 print(message)
 
 
@@ -450,31 +450,6 @@ print(pressure)
 
 
 
-
-# ? ? ? ? ? ? ? ? ? ? ?
-#
-# QUESTION 7: PLEASE HELP ME WITH THIS CODE:
-#
-# ? ? ? ? ? ? ? ? ? ? ?
-#    
-    
-def sort_for_middle(a,b,c):
-    '''Return the middle value of three
-     Assumes that the values can actually be compared
-     Usage: sort_for_middle(a,b,c).  input three values
-     '''
-    values = [a,b,c]
-    values.sort()
-    return values[0]
-
-help(sort_for_middle)
-
-sort_for_middle(4,3,2)
-
-
-
-
-
 # # # # # # # # # # # # # # # #  
 #                             #
 # Libraries                   #
@@ -658,6 +633,27 @@ def offset_mean(data, target_mean_value):
 
 help(offset_mean)
 
+# ? ? ? ? ? ? ? ? ? ? ?
+#
+# QUESTION 12: PLEASE HELP ME WITH THIS CODE:
+#
+# ? ? ? ? ? ? ? ? ? ? ?
+#    
+    
+def sort_for_middle(a,b,c):
+    '''Return the middle value of three
+     Assumes that the values can actually be compared
+     Usage: sort_for_middle(a,b,c).  input three values
+     '''
+    values = [a,b,c]
+    values.sort()
+    return values[0]
+
+help(sort_for_middle)
+
+sort_for_middle(4,3,2)
+
+
 
 # ## Readable Functions
 
@@ -725,7 +721,7 @@ max(x)
 
 # In python, everything is treated as an object
 # We have data in a numpy array x
-# we call an operation on x with x.f(x)
+# we call an operation on x with x.f()
 x = np.array([2, 3, 5])
 x.max()
 
