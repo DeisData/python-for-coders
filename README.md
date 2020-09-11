@@ -2,7 +2,10 @@
 A quick tutorial to python syntax, loops, conditionals, and functions for a learner with programming skills
 
 ## Materials for Optimization
-- Video Tutorial
+- Video Tutorials: *change YouTube settings to 720p for reading scripts*
+  - [Introduction](https://youtu.be/M9M_41G7eF4)
+  - [Part 1](https://youtu.be/sPJLXbbiABs)
+  - [Part 2](https://youtu.be/ZyBCR86Ee6Y)
 - [Supporting python script](https://github.com/DeisData/python-for-coders/blob/master/python-tutorial.py)
 
 ## Student Instructions
